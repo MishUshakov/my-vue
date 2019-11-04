@@ -3,7 +3,7 @@ module.exports = {
     env: {
         node: true
     },
-    'extends': [
+    extends: [
         'eslint:recommended',
         'plugin:vue/recommended',
         '@mishushakov',
