@@ -1,4 +1,4 @@
-name: Build & Publish to GitHub Pages
+name: Publish to GitHub Pages
 on:
   push:
     branches:
@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
-    - name: Build
+    - name: Clone
       env:
         CI: true
       run: |
