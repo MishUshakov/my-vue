@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import App from './Components/App/App.vue'
-import router from './Router/router'
-import store from './Store/store'
+import router from './Router'
+import store from './Store'
 import './registerServiceWorker'
 
 Vue.config.productionTip = false
