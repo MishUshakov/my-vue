@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["home"],{bb51:function(e,n,l){"use strict";l.r(n);var o=function(){var e=this,n=e.$createElement,l=e._self._c||n;return l("h1",[e._v("Hello World!")])},t=[],r={name:"Home"},u=r,a=l("2877"),c=Object(a["a"])(u,o,t,!1,null,null,null);n["default"]=c.exports}}]);
